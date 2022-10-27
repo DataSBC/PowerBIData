@@ -1,4 +1,4 @@
-﻿Date,Carrier,Tracking #,Order #,Delivery City,Star Rating,FeedbackCategory,Subcategory,Comment
+Date,Carrier,Tracking #,Order #,Delivery City,Star Rating,FeedbackCategory,Subcategory,Comment
 Tue Oct 25 00:00:00 GMT 2022,ups,"	92419902712015573012630861","	71118126",,5,Thanks/Praise,Thanks/Praise,Great
 Tue Oct 25 00:00:00 GMT 2022,ups,"	1Z1W1R130316893310","	71030903",MESA AZ US,4,Shipping/Delivery,Delivery Attempt After Hours,I was a bit confused when they tried to deliver the package to a school after 5:30 in the evening. But they delivered it the next day during school hours
 Tue Oct 25 00:00:00 GMT 2022,ups,"	92419902712015573009979720","	69848806",,5,Thanks/Praise,Thanks/Praise,Received everything I ordered in a timely fashion!
@@ -65,11 +65,3 @@ Thu Oct 20 00:00:00 GMT 2053,null,null,null,null,3,No Comment,No Comment,No Comm
 Thu Oct 20 00:00:00 GMT 2054,null,null,null,null,1,No Comment,No Comment,No Comment
 Thu Oct 20 00:00:00 GMT 2055,null,null,null,null,1,No Comment,No Comment,No Comment
 Thu Oct 20 00:00:00 GMT 2056,null,null,null,null,1,No Comment,No Comment,No Comment
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
