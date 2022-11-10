@@ -1,41 +1,49 @@
 Date,Carrier,Tracking #,Order #,Delivery City,Star Rating,FeedbackCategory,Subcategory,Comment
-Tue Nov 01 00:00:00 GMT 2022,ups,"	92419902712015573012441191","	71034916",BALTIMORE MD US,1,Order Discrepancy,Delayed/Never Received Order,"I received emails stating my package was coming on a certain day, not once but twice and it just came today."
-Tue Nov 01 00:00:00 GMT 2022,ups,"	1Z1W1R130317147820","	null",AUGUSTA NJ US,1,Order Discrepancy,Item Missing,where are my bonus books?
-Tue Nov 01 00:00:00 GMT 2022,ups,"	9205590295388102725747","	71201426",,5,Thanks/Praise,Thanks/Praise,Great Experience to purchase books.
-Tue Nov 01 00:00:00 GMT 2022,ups,"	92419902712015573012816012","	71186888",JEFFERSON CTY MO US,5,Thanks/Praise,Thanks/Praise,Delivered in a timely manner and in good shape.
-Mon Oct 31 00:00:00 GMT 2022,ups,"	92419902712015573012586052","	71098536",GREENSBORO NC US,5,Thanks/Praise,Thanks/Praise,Rushed delivery
-Mon Oct 31 00:00:00 GMT 2022,ups,"	1Z1W1R130317132596","	71144994",PLANO TX US,4,All Other,All Other,I had a parent move away to another state and there was no way to forward them onto the student.
-Mon Oct 31 00:00:00 GMT 2022,ups,"	92419902712015573012690179","	null",RISON AR US,5,All Other,All Other,everything
-Mon Oct 31 00:00:00 GMT 2022,ups,"	92419902712015573012332451","	71004760",VADNAIS HEIGHTS MN US,1,Order Discrepancy,Delayed/Never Received Order,My package had a delivery date of October 26....i didn't get it on the 26...when I checked it said 27.... didn't come on 27.....checked again....changed to the 28.....still don't have it.
-Mon Oct 31 00:00:00 GMT 2022,ups,"	9205590295388102721893","	71115397",,1,WISMO,WISMO,Unable to track package. Shipping notification 5 days prior.
-Sun Oct 30 00:00:00 GMT 2022,ups,"	92419902712015573012219349","	70947330",JASPER IN US,1,Order Discrepancy,Delayed/Never Received Order,This order was placed 2 wks ago! It's still not here.
-Sun Oct 30 00:00:00 GMT 2022,ups,"	1Z1W1R130317146821","	null",INDIANAPOLIS IN US,5,Thanks/Praise,Thanks/Praise,Easy to submit an order and track the shipment.
-Sun Oct 30 00:00:00 GMT 2022,ups,"	92419902712015573012705323","	null",GRANADA HILLS CA US,2,Order Discrepancy,Delayed/Never Received Order,Shipping is horribly delayed
-Sat Oct 29 00:00:00 GMT 2022,ups,"	92419902712015573012491318","	null",NORCO CA US,1,Delivery Attempt After Hours,Delivery Attempt After Hours,Never received box as it was delivered afterschool hours7:22pm in front of the school/ outside -likely stolen.
-Sat Oct 29 00:00:00 GMT 2022,ups,"	92419902712015573012635507","	71120528",CLEVELAND TX US,5,No Comment,No Comment,Xx
-Fri Oct 28 00:00:00 GMT 2022,ups,"	92419902712015573012789279","	71175493",,5,Thanks/Praise,Thanks/Praise,Informative
-Fri Oct 28 00:00:00 GMT 2022,ups,"	1Z1W1R130317047572","	71108056",PORTLAND OR US,5,Thanks/Praise,Thanks/Praise,Fast delivery and box arrived in good condition!
-Fri Oct 28 00:00:00 GMT 2022,ups,"	92419902712015573012636054","	71120808",EDISON NJ US,4,Thanks/Praise,Thanks/Praise,Great items!
-Fri Oct 28 00:00:00 GMT 2022,ups,"	92419902712015573011789836","	70798214",DALLAS TX US,1,Order Discrepancy,Delayed/Never Received Order,Never received my package
-Fri Oct 28 00:00:00 GMT 2022,ups,"	1Z1W1R130317101155","	71132047",,5,Thanks/Praise,Thanks/Praise,Quick delivery weâ€™re thrilled
-Fri Oct 28 00:00:00 GMT 2022,ups,"	92419902712015573011954876","	null",LOWELL MA US,5,Thanks/Praise,Thanks/Praise,Delivery time is good
-Thu Oct 27 00:00:00 GMT 2022,usps,"	9205590295388102689100","	null",,5,Thanks/Praise,Thanks/Praise,Mahalo for spreading the love of reading!
-Thu Oct 27 00:00:00 GMT 2022,ups,"	92419902712015573012647432","	ACR39732",,5,Thanks/Praise,Thanks/Praise,Great service!
-Thu Oct 27 00:00:00 GMT 2023,null,null,null,null,1,No Comment,No Comment,No Comment
-Thu Oct 27 00:00:00 GMT 2024,null,null,null,null,2,No Comment,No Comment,No Comment
-Thu Oct 27 00:00:00 GMT 2025,null,null,null,null,3,No Comment,No Comment,No Comment
-Thu Oct 27 00:00:00 GMT 2026,null,null,null,null,4,No Comment,No Comment,No Comment
-Thu Oct 27 00:00:00 GMT 2027,null,null,null,null,5,No Comment,No Comment,No Comment
-Thu Oct 27 00:00:00 GMT 2028,null,null,null,null,5,No Comment,No Comment,No Comment
-Thu Oct 27 00:00:00 GMT 2029,null,null,null,null,5,No Comment,No Comment,No Comment
-Thu Oct 27 00:00:00 GMT 2030,null,null,null,null,5,No Comment,No Comment,No Comment
-Thu Oct 27 00:00:00 GMT 2031,null,null,null,null,5,No Comment,No Comment,No Comment
-Thu Oct 27 00:00:00 GMT 2032,null,null,null,null,5,No Comment,No Comment,No Comment
-Thu Oct 27 00:00:00 GMT 2033,null,null,null,null,5,No Comment,No Comment,No Comment
-Thu Oct 27 00:00:00 GMT 2034,null,null,null,null,5,No Comment,No Comment,No Comment
-Thu Oct 27 00:00:00 GMT 2035,null,null,null,null,5,No Comment,No Comment,No Comment
-Thu Oct 27 00:00:00 GMT 2036,null,null,null,null,5,No Comment,No Comment,No Comment
-Thu Oct 27 00:00:00 GMT 2037,null,null,null,null,5,No Comment,No Comment,No Comment
-Thu Oct 27 00:00:00 GMT 2038,null,null,null,null,5,No Comment,No Comment,No Comment
-Thu Oct 27 00:00:00 GMT 2039,null,null,null,null,5,No Comment,No Comment,No Comment
-Thu Oct 27 00:00:00 GMT 2040,null,null,null,null,5,No Comment,No Comment,No Comment
+Tue Nov 08 00:00:00 GMT 2022,ups,"	1Z1W1R130317280284","	null",,1,Item Missing,Item Missing,I am missing one book and have contacted customer service. I do not see any shipments
+Tue Nov 08 00:00:00 GMT 2022,ups,"	1Z1W1R130316541173","	70872237",BALDWIN CITY KS US,5,Fast Shipping-Praise,Fast Shipping-Praise,Books came quickly. Order was 100% accurate. All books were separated by the student who ordered them.
+Tue Nov 08 00:00:00 GMT 2022,ups,"	92419902712015573012644516","	null",BRIDGEPORT CT US,3,Delayed/Never Received Order,Delayed/Never Received Order,I did NOT RECEIVED THIS PACKAGE
+Tue Nov 08 00:00:00 GMT 2022,ups,"	92419902712015573012873213","	null",CLEVELAND OH US,2,Delayed/Never Received Order,Delayed/Never Received Order,"If UPS is having trouble getting packages delivered in a timely fashion maybe find a different way to mail. My package has been stuck in Cleveland now for 3 days, still waiting to be processed to leave. This hurts my ability to get kids to order and your sales. The kids keep asking for there books! UPS can't even say when I would be getting the shippment and I work in Cleveland, I could have walked the package to my school by now from there facility."
+Tue Nov 08 00:00:00 GMT 2022,ups,"	1Z1W1R130315982805","	70637826",,5,Fast Shipping-Praise,Fast Shipping-Praise,books arrived in a timely manner
+Tue Nov 08 00:00:00 GMT 2022,ups,"	1Z1W1R130317384743","	71256782",LAKE VIEW TERRACE CA US,3,Delayed/Never Received Order,Delayed/Never Received Order,My books being delayed in delivery
+Tue Nov 08 00:00:00 GMT 2022,ups,"	1Z1W1R130317376841","	71253336",DILLSBURG PA US,1,Delivery Attempt After Hours,Delivery Attempt After Hours,Our hours are 8am to 2pm Therefore we missed a delivery that arrived after that time.
+Tue Nov 08 00:00:00 GMT 2022,ups,"	1Z1W1R130317402839","	71266727",FT LAUDERDALE FL US,5,Thanks/Praise,Thanks/Praise,Easy
+Mon Nov 07 00:00:00 GMT 2022,ups,"	1Z1W1R130317283441","	71214680",MIAMI FL US,5,Fast Shipping-Praise,Fast Shipping-Praise,Excellent fast service!
+Mon Nov 07 00:00:00 GMT 2022,ups,"	92419902712015573012065120","	70895091",FOUNTAIN CITY IN US,1,Delayed/Never Received Order,Delayed/Never Received Order,I ordered these books almost a month ago and the delivery date keeps changing. So bummed they are taking SO long.
+Sun Nov 06 00:00:00 GMT 2022,ups,"	92419902712015573012836478","	71197781",STUDIO CITY CA US,1,Delivery Attempt After Hours,Delivery Attempt After Hours,I work at a school! We are NOT in session on Saturday or Sundays! Why would you deliver it over the weekend?! Sheesh!
+Sat Nov 05 00:00:00 GMT 2022,ups,"	1Z1W1R130317296964","	71221442",LAS CRUCES NM US,5,Thanks/Praise,Thanks/Praise,Great service
+Sat Nov 05 00:00:00 GMT 2022,ups,"	92419902712015573012822891","	71192677",SACRAMENTO CA US,1,Delivery Attempt After Hours,Delivery Attempt After Hours,"Shipping terrible. Late, transferred carriers and delivered on a Saturday."
+Fri Nov 04 00:00:00 GMT 2022,ups,"	1Z1W1R130317224700","	null",POTTSTOWN PA US,2,Damaged Item,Damaged Item,The single book was in a box that was significantly larger than the book itself and the box came partially crushed.  The book has a torn cover.
+Fri Nov 04 00:00:00 GMT 2022,ups,"	92419902712015573012896182","	71222348",LONGMONT CO US,5,Fast Shipping-Praise,Fast Shipping-Praise,"I put the order in on Sunday night, and it arrived so that I can distribute books before the end of the week. Awesome! I would love to see a whole order focused on books written by indigenous authors or people of color.  Is there a way to request books for you to offer families?"
+Fri Nov 04 00:00:00 GMT 2022,ups,"	92419902712015573012715261","	null",SAULT S MARIE MI US,1,Delayed/Never Received Order,Delayed/Never Received Order,When will my package arrive? It has been close to 10 days since I ordered them. I am also confused why my package makes itâ€™s way to Michigan and then for some reason goes all the way back to Ohio. Itâ€™s final destination is supposed to be in Michigan. This doesnâ€™t make sense.
+Thu Nov 03 00:00:00 GMT 2022,ups,"	1Z1W1R130317236920","	300124852",PHARR TX US,5,Thanks/Praise,Thanks/Praise,"The first shipment of this order was lost and no where to be found-but your company was so incredibly kind that they shipped it again at no cost, even though my principal said she would pay for the lost order so our kids could get their books! It came within a week and I am now, even more than before, singing Scholasticâ€™s praises and how they really do want to help put books into childrenâ€™s handsâ¤ï¸"
+Thu Nov 03 00:00:00 GMT 2022,ups,"	1Z1W1R130317224899","	71186036",,5,Fast Shipping-Praise,Fast Shipping-Praise,Early delivery for the WIN!
+Thu Nov 03 00:00:00 GMT 2022,ups,"	1Z1W1R130317239678","	71194984",WINTER GARDEN FL US,5,Fast Shipping-Praise,Fast Shipping-Praise,Shipping was very fast!
+Thu Nov 03 00:00:00 GMT 2022,ups,"	1Z1W1R130317015972","	null",WATERLOO IA US,5,Thanks/Praise,Thanks/Praise,Easy to order online and access benefits.
+Thu Nov 03 00:00:00 GMT 2022,ups,"	92419902712015573012741215","	71157247",REIDSVILLE NC US,5,All Other,All Other,Get timely delivery!
+Thu Nov 03 00:00:00 GMT 2023,null,null,null,null,5,No Comment,No Comment,No Comment
+Thu Nov 03 00:00:00 GMT 2024,null,null,null,null,5,No Comment,No Comment,No Comment
+Thu Nov 03 00:00:00 GMT 2025,null,null,null,null,5,No Comment,No Comment,No Comment
+Thu Nov 03 00:00:00 GMT 2026,null,null,null,null,5,No Comment,No Comment,No Comment
+Thu Nov 03 00:00:00 GMT 2027,null,null,null,null,5,No Comment,No Comment,No Comment
+Thu Nov 03 00:00:00 GMT 2028,null,null,null,null,5,No Comment,No Comment,No Comment
+Thu Nov 03 00:00:00 GMT 2029,null,null,null,null,5,No Comment,No Comment,No Comment
+Thu Nov 03 00:00:00 GMT 2030,null,null,null,null,5,No Comment,No Comment,No Comment
+Thu Nov 03 00:00:00 GMT 2031,null,null,null,null,5,No Comment,No Comment,No Comment
+Thu Nov 03 00:00:00 GMT 2032,null,null,null,null,5,No Comment,No Comment,No Comment
+Thu Nov 03 00:00:00 GMT 2033,null,null,null,null,5,No Comment,No Comment,No Comment
+Thu Nov 03 00:00:00 GMT 2034,null,null,null,null,5,No Comment,No Comment,No Comment
+Thu Nov 03 00:00:00 GMT 2035,null,null,null,null,5,No Comment,No Comment,No Comment
+Thu Nov 03 00:00:00 GMT 2036,null,null,null,null,5,No Comment,No Comment,No Comment
+Thu Nov 03 00:00:00 GMT 2037,null,null,null,null,5,No Comment,No Comment,No Comment
+Thu Nov 03 00:00:00 GMT 2038,null,null,null,null,5,No Comment,No Comment,No Comment
+Thu Nov 03 00:00:00 GMT 2039,null,null,null,null,5,No Comment,No Comment,No Comment
+Thu Nov 03 00:00:00 GMT 2040,null,null,null,null,5,No Comment,No Comment,No Comment
+Thu Nov 03 00:00:00 GMT 2041,null,null,null,null,5,No Comment,No Comment,No Comment
+Thu Nov 03 00:00:00 GMT 2042,null,null,null,null,5,No Comment,No Comment,No Comment
+Thu Nov 03 00:00:00 GMT 2043,null,null,null,null,4,No Comment,No Comment,No Comment
+Thu Nov 03 00:00:00 GMT 2044,null,null,null,null,1,No Comment,No Comment,No Comment
+Thu Nov 03 00:00:00 GMT 2045,null,null,null,null,1,No Comment,No Comment,No Comment
+Thu Nov 03 00:00:00 GMT 2046,null,null,null,null,1,No Comment,No Comment,No Comment
+Thu Nov 03 00:00:00 GMT 2047,null,null,null,null,1,No Comment,No Comment,No Comment
+Thu Nov 03 00:00:00 GMT 2048,null,null,null,null,1,No Comment,No Comment,No Comment
+Thu Nov 03 00:00:00 GMT 2049,null,null,null,null,1,No Comment,No Comment,No Comment
